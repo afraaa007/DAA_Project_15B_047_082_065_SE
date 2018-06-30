@@ -1,0 +1,5 @@
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_Afraaz\DAA_Project_Afraaz\bin\Debug\DAA_Project_Afraaz.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_Afraaz\DAA_Project_Afraaz\bin\Debug\DAA_Project_Afraaz.exe
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_Afraaz\DAA_Project_Afraaz\bin\Debug\DAA_Project_Afraaz.pdb
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_Afraaz\DAA_Project_Afraaz\obj\Debug\DAA_Project_Afraaz.exe
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_Afraaz\DAA_Project_Afraaz\obj\Debug\DAA_Project_Afraaz.pdb
